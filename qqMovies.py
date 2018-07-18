@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-  
-# by mazh. my site: http://blog.csdn.net/zhongqi2513  
+# -*- coding: utf-8 -*-   
 import re  
 import requests
 from bs4 import BeautifulSoup 
@@ -140,5 +139,3 @@ if __name__ == "__main__":
       getmovielist(m_url[0],page_html)
 
       time.sleep(0.1)   #设置sleep时间，以防爬取过快被封IP
-
-
