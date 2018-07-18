@@ -94,7 +94,7 @@ def getmovielist(m_type, html): #html 分类页面文本，用gethtml(str(tag_ur
   movies = p.findall(str(divs[0]))
   #print(movies)
 
-  f = open('qqMovies.txt','w')  #如qqMovies.txt存在则覆盖，无则新建
+  #f = open('qqMovies.txt','w')  #如qqMovies.txt存在则覆盖，无则新建
   if movies:
     #print(movies)
     for movie in movies:
@@ -112,7 +112,7 @@ def getmovielist(m_type, html): #html 分类页面文本，用gethtml(str(tag_ur
       f.write('\n' + "_" * 70 + '\n')   #写入\n换行和-分隔符
   else:
     "Not Found"
-  f.write('total movies: %s' % str(NUM))  #写入最后电影总数
+  f.write('total movies: %s \n' % str(NUM))  #写入最后电影总数
   f.close()   #关闭文件
 
 
