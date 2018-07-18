@@ -14,6 +14,7 @@ m_site = u'qq' #全局变量,电影网站
 def getHTML(url):  
   try:
     head = {'User-Agent':'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'}
+    r = requests.get(url, headers = head, timeout = 30)
     r.raise_for_status()
     r.encoding = r.apparent_encoding
     html = r.text
