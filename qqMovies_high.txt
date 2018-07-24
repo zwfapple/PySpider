@@ -1,0 +1,431 @@
+movie_title: 摔跤吧！爸爸 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/2xxul4n2j8y0rxi.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------1
+movie_title: 返老还童 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/5y07fkhxzj48wcj.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------2
+movie_title: 海边的曼彻斯特 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/iimh6ayb3nuzkrs.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------3
+movie_title: 小森林 夏秋篇 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/yz98ta4nfjtaa6q.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------4
+movie_title: 达拉斯买家俱乐部 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/rp2fmb4gr8wcth6.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------5
+movie_title: 超脱 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/70zllnaq7qcxtj0.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------6
+movie_title: 穿条纹睡衣的男孩 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/k2zh09k7oid23o0.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------7
+movie_title: 我爱你 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/6yyurkhdbqna5px.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------8
+movie_title: 帮助 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/z9bhpt56dxzttsn.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------9
+movie_title: 被嫌弃的松子的一生 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/2xxvt9eg1d231wv.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------10
+movie_title: 遥望南方的童年 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/divl44zx7b2h40k.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------11
+movie_title: 我是山姆 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/vox06nwx47wuy5t.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------12
+movie_title: 无人知晓 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/ztrkpnw1mdnc220.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------13
+movie_title: 小树的故事 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/szc18qknrwi0mj1.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------14
+movie_title: 心灵捕手 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/mhl665xf8ina3t2.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------15
+movie_title: 教父1 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/x90v161tdg3lrzl.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------16
+movie_title: 东邪西毒 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/sjf09eud1m3p8sn.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------17
+movie_title: 辛德勒的名单 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/dr37tbvercpqsko.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------18
+movie_title: 纵横四海 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/x7dra43dggxthim.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------19
+movie_title: 茶馆 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/lw7tt45cgl3rnhd.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------20
+movie_title: 剪刀手爱德华 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/stnv37gf9fye063.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------21
+movie_title: 城南旧事 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/0vsiy4xwudoly2s.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------22
+movie_title: 死亡诗社 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/vpbpk93xbkkwa8q.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------23
+movie_title: 丝路花雨 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/utla3w2tas7l8tu.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------24
+movie_title: 癫佬正传 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/6g98vnzzuf77qik.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------25
+movie_title: 阿郎的故事 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/y5zb2alup12r33o.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------26
+movie_title: 背对背，脸对脸 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/zwqybzsk6m1ahnx.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------27
+movie_title: 女驸马 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/4oom9wgw2l4r22w.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------28
+movie_title: 切腹 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/isjvyveq575c35h.html ,movie_site: qq ,movie_type:剧情
+----------------------------------------------------------------------29
+movie_title: 神秘巨星 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/esb9yas9hjdbadw.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------30
+movie_title: 完美陌生人 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/yx2mdkgsldbq1jb.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------31
+movie_title: 寻梦环游记 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/vjrvzv3s517g6m8.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------32
+movie_title: 荒蛮故事 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/jbj176n5lxqxcy7.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------33
+movie_title: 布达佩斯大饭店 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/tlvwiitova3d9m1.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------34
+movie_title: 开心家族 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/acv45l1jrrlbugn.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------35
+movie_title: 刺猬的优雅 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/keg0afvsa1wl0ge.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------36
+movie_title: 天使爱美丽 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/o9ltjk5yc26z6w9.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------37
+movie_title: 唐伯虎点秋香 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/e3pdjwjjbbcmsow.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------38
+movie_title: 大话西游之大圣娶亲 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/fse52rd4klx7qn2.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------39
+movie_title: 九品芝麻官 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/gwz8nqvc78oexgm.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------40
+movie_title: 楚门的世界 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/31082i4u5ovkrl0.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------41
+movie_title: 美丽人生 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/1weku8f23n0j12s.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------42
+movie_title: 伴我同行 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/hbmxalfnpfxkcy9.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------43
+movie_title: 小孩 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/6x6fsw0iwwxcdo5.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------44
+movie_title: 罗马假日 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/4nxabytt44ngpry.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------45
+movie_title: 摩登时代 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/9w35g1rr7w3smmr.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------46
+movie_title: 大独裁者 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/0iwg66rmn19yseb.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------47
+movie_title: 城市之光 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/b48c3tz58gusw8r.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------48
+movie_title: 将军号 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/7j7bhrwjsj5w45b.html ,movie_site: qq ,movie_type:喜剧
+----------------------------------------------------------------------49
+movie_title: 头号玩家 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/zatx0zuk94d9aru.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------50
+movie_title: 红海行动 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/7casb7nes159mrl.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------51
+movie_title: 让子弹飞 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/rzpyce9pmxayzvb.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------52
+movie_title: 蝙蝠侠：黑暗骑士 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/w7vmjen1fzoeygx.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------53
+movie_title: 疯狂的麦克斯：狂暴之路 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/g6i25yu22uop29j.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------54
+movie_title: 王牌特工：特工学院 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/2n0gjsfnpyvbin3.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------55
+movie_title: 蝙蝠侠：黑暗骑士崛起 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/1b117d3s47s9rwx.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------56
+movie_title: 指环王3：王者无敌 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/tphyx6noqtfv27x.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------57
+movie_title: 我，机器人 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/ecta0n6w6oaiw2k.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------58
+movie_title: v字仇杀队 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/w7hkwrou304fmze.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------59
+movie_title: 谍影重重2 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/3ra71k2p5igwg0o.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------60
+movie_title: 谍影重重3 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/9h8door60ma311n.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------61
+movie_title: 可可西里 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/h4pahwz4acf6f5g.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------62
+movie_title: 精武英雄 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/wnvssh5lcu50koj.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------63
+movie_title: 英雄本色 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/r3m3bpm2cyjpf1e.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------64
+movie_title: 勇敢的心 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/90hxh48sphptr0j.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------65
+movie_title: 勇闯夺命岛 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/inyzlpgh5mctnte.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------66
+movie_title: 这个杀手不太冷 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/fvue88y1fsnk4w2.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------67
+movie_title: 七武士 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/3pivbj7bkp6zcr6.html ,movie_site: qq ,movie_type:动作
+----------------------------------------------------------------------68
+movie_title: 彩绘心天地 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/9drzc4ohjx3loss.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------69
+movie_title: 怦然心动 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/997m2fipgc6erv7.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------70
+movie_title: 横道世之介 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/0hfwt1hs34twivh.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------71
+movie_title: 时空恋旅人 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/g6nvv8jt1y04hu6.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------72
+movie_title: 断背山 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/5hplbnckbsa5mgv.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------73
+movie_title: 傲慢与偏见 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/dchep5ox42l26i9.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------74
+movie_title: 恋恋笔记本 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/cwzbvl00ztlmmh3.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------75
+movie_title: 爱在日落黄昏时 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/9q1fcwkoeem19d5.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------76
+movie_title: 幸福终点站 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/0sem4gd0wu1eekz.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------77
+movie_title: 灿烂人生（上） , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/szdk5vibdh32543.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------78
+movie_title: 霸王别姬 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/j3czmhisqin799r.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------79
+movie_title: 阿甘正传 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/r6hc2kqgvnmiejn.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------80
+movie_title: 乱世佳人 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/gzdq4acw02m3ajs.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------81
+movie_title: 灿烂人生（下） , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/hodq0mb9wwusbrc.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------82
+movie_title: 爱在黎明破晓前 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/7ci0ax0zwtztdot.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------83
+movie_title: 灿烂人生（中） , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/sm50rw1vh7ri9wz.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------84
+movie_title: 魂断蓝桥 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/datmg11j1flxgiw.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------85
+movie_title: 芙蓉镇 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/hni3t6eq0gqhryf.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------86
+movie_title: 对花枪 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/cvuk0qgun7nznp3.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------87
+movie_title: 泰坦尼克号 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/t5jqhgw8pix81mw.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------88
+movie_title: 花为媒 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/c51cf3m9qmjg9mg.html ,movie_site: qq ,movie_type:爱情
+----------------------------------------------------------------------89
+movie_title: 看不见的客人 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/8lvnb7aiio1crpd.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------90
+movie_title: 新世界 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/ucg5x1ifzgh27x0.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------91
+movie_title: 监守自盗 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/j297s2u38sil8do.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------92
+movie_title: 汉尼拔 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/rpax4o7ih1dasun.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------93
+movie_title: 无间道 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/sg5p4qp1s6jbyj8.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------94
+movie_title: 神探 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/6lj41yn2b0dq67o.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------95
+movie_title: 肖申克的救赎 , movie_score: 9.7, movie_url: https://v.qq.com/x/cover/1o29ui77e85grdr.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------96
+movie_title: 绿里奇迹 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/813ux41qxxzm8ku.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------97
+movie_title: 低俗小说 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/einghaeb1shgwf2.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------98
+movie_title: 七宗罪 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/zg7bhyyc1ffeha0.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------99
+movie_title: 教父2 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/c2f26xjegzuyi16.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------100
+movie_title: 教父3 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/blfbj7c9g9zzts9.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------101
+movie_title: 撞车 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/usn93zzxuhn26xl.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------102
+movie_title: 罗生门 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/ghavn75ulwpjsqr.html ,movie_site: qq ,movie_type:犯罪
+----------------------------------------------------------------------103
+movie_title: 勇者大冒险之黄泉手记 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/lg003voi48yieg3.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------104
+movie_title: 少年派的奇幻漂流 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/phncvm1ns0sygig.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------105
+movie_title: 哈利·波特与死亡圣器（下） , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/eshodxofa7omesm.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------106
+movie_title: 哈利·波特与魔法石 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/pb69zpzabgg1t7n.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------107
+movie_title: 加勒比海盗1：黑珍珠号的诅咒 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/6bxb2yc7mskrdoz.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------108
+movie_title: 荒岛余生 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/9uzc90pa9c4pm95.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------109
+movie_title: 狮子王 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/lh4cj69w87hfodz.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------110
+movie_title: 死囚越狱 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/tj63h4121vr18o5.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------111
+movie_title: 淘金记 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/tqgmpsxckcen61k.html ,movie_site: qq ,movie_type:冒险
+----------------------------------------------------------------------112
+movie_title: 敦刻尔克 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/eiltk86r8o001mf.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------113
+movie_title: 血战钢锯岭 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/jm7ingmp113qaqu.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------114
+movie_title: 比利·林恩的中场战事 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/arltmotsrioitq8.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------115
+movie_title: 赛德克·巴莱 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/m58bndaftyoudmv.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------116
+movie_title: 黑鹰坠落 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/3j6v0bpyyudipae.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------117
+movie_title: 三毛从军记 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/87hsro5tgedf480.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------118
+movie_title: 大捷 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/012ehemkme2zwh1.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------119
+movie_title: 光荣之路 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/zxolejpeqkirbb0.html ,movie_site: qq ,movie_type:战争
+----------------------------------------------------------------------120
+movie_title: 致命魔术 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/yjko7f1b1muwdhe.html ,movie_site: qq ,movie_type:惊悚
+----------------------------------------------------------------------121
+movie_title: 窃听风暴 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/ih84bi86nzujfs5.html ,movie_site: qq ,movie_type:惊悚
+----------------------------------------------------------------------122
+movie_title: 灵异第六感 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/r59i2am7z2pg81w.html ,movie_site: qq ,movie_type:惊悚
+----------------------------------------------------------------------123
+movie_title: 完美的世界 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/68m6s2drn3o4bjz.html ,movie_site: qq ,movie_type:惊悚
+----------------------------------------------------------------------124
+movie_title: 禁闭岛 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/v6nwjtseqb43ots.html ,movie_site: qq ,movie_type:悬疑
+----------------------------------------------------------------------125
+movie_title: 蝴蝶效应 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/porrg8osobrmvs8.html ,movie_site: qq ,movie_type:悬疑
+----------------------------------------------------------------------126
+movie_title: 洛城机密 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/c7rak8s45w6eyns.html ,movie_site: qq ,movie_type:悬疑
+----------------------------------------------------------------------127
+movie_title: 摔跤吧！爸爸 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/2xxul4n2j8y0rxi.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------128
+movie_title: 返老还童 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/5y07fkhxzj48wcj.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------129
+movie_title: 海边的曼彻斯特 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/iimh6ayb3nuzkrs.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------130
+movie_title: 小森林 夏秋篇 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/yz98ta4nfjtaa6q.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------131
+movie_title: 达拉斯买家俱乐部 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/rp2fmb4gr8wcth6.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------132
+movie_title: 超脱 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/70zllnaq7qcxtj0.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------133
+movie_title: 穿条纹睡衣的男孩 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/k2zh09k7oid23o0.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------134
+movie_title: 我爱你 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/6yyurkhdbqna5px.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------135
+movie_title: 帮助 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/z9bhpt56dxzttsn.html ,movie_site: qq ,movie_type:恐怖
+----------------------------------------------------------------------136
+movie_title: 星际穿越 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/c2seabnsfozypl8.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------137
+movie_title: 阿凡达 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/ldl1811bamppdrd.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------138
+movie_title: 盗梦空间 , movie_score: 9.5, movie_url: https://v.qq.com/x/cover/h0meep6p766jgqh.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------139
+movie_title: 彗星来的那一夜 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/hyk5l84i5imw4e3.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------140
+movie_title: 人工智能 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/ggl1e7h3s2w93fa.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------141
+movie_title: 黑客帝国 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/mpy4fba3x6puvfy.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------142
+movie_title: 千钧一发 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/fqc9exx7n20bjuj.html ,movie_site: qq ,movie_type:科幻
+----------------------------------------------------------------------143
+movie_title: 指环王1：护戒使者 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/5jnb4fae4hzic9g.html ,movie_site: qq ,movie_type:奇幻
+----------------------------------------------------------------------144
+movie_title: 指环王2：双塔奇兵 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/e2rt42iw6cv1ndq.html ,movie_site: qq ,movie_type:奇幻
+----------------------------------------------------------------------145
+movie_title: 大鱼 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/mbtiy3litj9olls.html ,movie_site: qq ,movie_type:奇幻
+----------------------------------------------------------------------146
+movie_title: 坠入 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/fa11c983te0it8p.html ,movie_site: qq ,movie_type:奇幻
+----------------------------------------------------------------------147
+movie_title: 倩女幽魂 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/ifkyvtji4a4a5hl.html ,movie_site: qq ,movie_type:奇幻
+----------------------------------------------------------------------148
+movie_title: 小森林 冬春篇 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/1o7ou00t80apgko.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------149
+movie_title: 忠犬八公的故事 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/vb1t9npga3tha8d.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------150
+movie_title: 万箭穿心 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/6n7q7dodnls5uu6.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------151
+movie_title: 一次别离 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/yq76u9znklhx2y5.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------152
+movie_title: 奇迹 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/piilwizseagfvm7.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------153
+movie_title: 步履不停 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/9jlnyon2q8osmt1.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------154
+movie_title: 狐狸与我 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/hbmdo03o3wfugof.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------155
+movie_title: 小鞋子 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/ab66o4bl2p67wv7.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------156
+movie_title: 音乐之声 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/nlzswcxr4umy1fr.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------157
+movie_title: 伴你高飞 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/y1rkjs99nbakyia.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------158
+movie_title: 忠犬八公物语 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/azrb39tto39w4je.html ,movie_site: qq ,movie_type:家庭
+----------------------------------------------------------------------159
+movie_title: 你的名字。 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/gz9q7kd8wviwkxv.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------160
+movie_title: 疯狂动物城 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/fhe2h7sop52qzza.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------161
+movie_title: 西游记之大圣归来 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/3o56brnhunm5bwx.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------162
+movie_title: 至爱梵高·星空之谜 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/aqvz9iryiju6tov.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------163
+movie_title: 头脑特工队 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/7m14vtdrrg3xr78.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------164
+movie_title: 小羊肖恩 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/4e62aswdyxgxfzw.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------165
+movie_title: 冰雪奇缘 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/bv8m91i5jj1w1ww.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------166
+movie_title: 超能陆战队 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/hjdb95f8lxcyyew.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------167
+movie_title: 疯狂原始人 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/m4ry5h1naszjlzh.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------168
+movie_title: 玛丽和马克思 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/b49nto261rv2a14.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------169
+movie_title: 神偷奶爸 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/oylsefopm3zevpj.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------170
+movie_title: 飞屋环游记 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/w9gk2xdkyvez6yp.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------171
+movie_title: 机器人总动员 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/vqeduf4egjyrc8w.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------172
+movie_title: 驯龙高手 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/3imeqzq7nzw130g.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------173
+movie_title: 与恐龙同行 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/42x9x33lueay91y.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------174
+movie_title: 玩具总动员3 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/cezngt65nqkg580.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------175
+movie_title: 无敌破坏王 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/uywqg22df6ktfmn.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------176
+movie_title: 魔术师 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/rsiz5gn264tneg5.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------177
+movie_title: 黑暗骑士归来2 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/erwh2ilmxyv8xdj.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------178
+movie_title: 怪兽电力公司 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/uehcx261b1aqs3t.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------179
+movie_title: 黑客帝国动画版 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/5djtoyf8p75rhcw.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------180
+movie_title: 我在伊朗长大 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/i4d7eeqvmp53p49.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------181
+movie_title: 大闹天宫 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/63hlfa8yfrs1yza.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------182
+movie_title: 三毛流浪记 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/tp8qwuc6gxpb84d.html ,movie_site: qq ,movie_type:动画
+----------------------------------------------------------------------183
+movie_title: 放牛班的春天 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/3u551qgyjhil9l7.html ,movie_site: qq ,movie_type:音乐
+----------------------------------------------------------------------184
+movie_title: 群英会京剧 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/r6fmb25hnizdjgk.html ,movie_site: qq ,movie_type:音乐
+----------------------------------------------------------------------185
+movie_title: 猫 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/j5m1vji5qpnqtm6.html ,movie_site: qq ,movie_type:歌舞
+----------------------------------------------------------------------186
+movie_title: 拯救大兵瑞恩 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/8lv03zh9yuhm1a2.html ,movie_site: qq ,movie_type:历史
+----------------------------------------------------------------------187
+movie_title: 悲惨世界 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/f8ajg5ru7ukq15l.html ,movie_site: qq ,movie_type:历史
+----------------------------------------------------------------------188
+movie_title: 从海底出击 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/cdxaupbev787upa.html ,movie_site: qq ,movie_type:历史
+----------------------------------------------------------------------189
+movie_title: 至暗时刻 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/1nof1ugdh13vox4.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------190
+movie_title: 自闭历程 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/pquw8wnl9kh9fg9.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------191
+movie_title: 当幸福来敲门 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/vbr7hkoebjpsrxb.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------192
+movie_title: 猫鼠游戏 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/wtwpu1rqpe427mw.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------193
+movie_title: 荒野生存 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/4vle2tvyudfpaky.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------194
+movie_title: 美丽心灵 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/le1y6ytqnnd2ua2.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------195
+movie_title: 帝国的毁灭 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/ym57dizjszgv10v.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------196
+movie_title: 因父之名 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/yj7w50q592chonp.html ,movie_site: qq ,movie_type:传记
+----------------------------------------------------------------------197
+movie_title: 神秘巨星 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/esb9yas9hjdbadw.html ,movie_site: qq ,movie_type:伦理
+----------------------------------------------------------------------198
+movie_title: 二十二 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/vfx3eugf3h4jiqg.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------199
+movie_title: 厉害了，我的国 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/1jj78hgru2so83n.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------200
+movie_title: 梦巴萨 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/wtsiu9mcl0ubz8v.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------201
+movie_title: 海豚湾 , movie_score: 9.4, movie_url: https://v.qq.com/x/cover/1fl91giyegazfl4.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------202
+movie_title: 家园 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/xvgy9ay5loiijot.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------203
+movie_title: 地球之盐 , movie_score: 9.3, movie_url: https://v.qq.com/x/cover/vvso3ob61erhxwa.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------204
+movie_title: 阿拉斯加的棕熊 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/aloi4lsfwsa3b7l.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------205
+movie_title: 大路朝天 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/ng3i0u7z9ocv209.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------206
+movie_title: 哈勃望远镜 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/dqv4zox2c2yqvga.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------207
+movie_title: 非洲猫科 , movie_score: 9.2, movie_url: https://v.qq.com/x/cover/zjl1ln0ipai6zfs.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------208
+movie_title: 迈克尔·杰克逊：就是这样 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/xnu0knmsocegld3.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------209
+movie_title: 快乐的人们 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/77jqy4szskv8p3f.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------210
+movie_title: 海底世界 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/83syy4eit9oakpo.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------211
+movie_title: 海龟:奇妙之旅 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/erko7fbu4vj81n8.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------212
+movie_title: 金属精神 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/6mna8giu09zjhdn.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------213
+movie_title: 北极故事 , movie_score: 9.1, movie_url: https://v.qq.com/x/cover/z83dqkoa0ubhe4y.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------214
+movie_title: 尼尔 杨：金子心 , movie_score: 9.0, movie_url: https://v.qq.com/x/cover/sivbbig9cfg3tua.html ,movie_site: qq ,movie_type:纪录
+----------------------------------------------------------------------215
+total high score movies: 215 
